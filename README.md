@@ -1,3 +1,3 @@
-# Muestra 2
+# Página simple (estándar)
 
 https://trixcixco.github.io/muestra2/
